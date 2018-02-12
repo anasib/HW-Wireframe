@@ -17,28 +17,29 @@
     }
 
     .content{
-        background: white;
+        background: lightgray;
         padding: 50px;
     }
 
     .nav{
-        background: white;
+        background: lightgray;
         display: grid;
         padding: 50px;
     }
 
     .container{
-        background: white;
+        background: lightgray;
         width: 495px;;
         height: 300px;
     }
 
     .section{
         padding: 40px;
+
     }
 
     #article{
-        padding: 30px;
+        padding: 40px;
         background: #777;
         content: #ebebeb;
         width: 400px;
@@ -47,17 +48,20 @@
     .flex-container{
         display: flex;
         justify-content: center;
-        background: white;
         padding: 10px;
+        background: lightgray;
+        font-weight: bold;
+        color: #777;
     }
 
     p{
-        background: white;
         padding: 10px;
+        background: lightgray;
+
     }
 
     .aside{
-        background: white;
+        background: lightgray;
         width: 450px;
         height: 300px;
         position: relative;
@@ -67,7 +71,7 @@
     }
 
     #footer{
-        background: white;
+        background: lightgray;
         position: relative;
         bottom: 300px;
         padding: 50px;
